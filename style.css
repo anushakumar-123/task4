@@ -7,7 +7,7 @@ Style all paragraphs (<p>) that are after an <h2> inside .blog to have a light g
 .blog p{
     color:blue;
 }
-.blog>h2{
+.blog h2{
     color:red;
 }
 .blog h2+p{
